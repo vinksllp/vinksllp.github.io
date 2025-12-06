@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Rajesh Kumar",
+    "company": "Insurance Solutions India",
+    "role": "Chief Technology Officer",
+    "testimonial": "VINKS Services LLP transformed our legacy insurance management system into a modern, efficient platform. Their expertise in the insurance domain and technical proficiency exceeded our expectations.",
+    "rating": 5,
+    "avatar": "https://ui-avatars.com/api/?name=Rajesh+Kumar&background=0284c7&color=fff&size=128"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Mitchell",
+    "company": "GlobalTech Solutions",
+    "role": "Product Manager",
+    "testimonial": "Working with VINKS was a game-changer for our international project. Their team delivered a robust solution on time and within budget. Highly recommended for complex software implementations.",
+    "rating": 5,
+    "avatar": "https://ui-avatars.com/api/?name=Sarah+Mitchell&background=0284c7&color=fff&size=128"
+  },
+  {
+    "id": 3,
+    "name": "Amit Patel",
+    "company": "Gas Distribution Network",
+    "role": "Operations Director",
+    "testimonial": "The custom distribution management system developed by VINKS has streamlined our entire operation. Real-time tracking and automated billing have significantly improved our efficiency.",
+    "rating": 5,
+    "avatar": "https://ui-avatars.com/api/?name=Amit+Patel&background=0284c7&color=fff&size=128"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Priya Sharma",
+    "company": "State Government IT Department",
+    "role": "IT Project Head",
+    "testimonial": "VINKS delivered a comprehensive citizen services portal that serves millions of users. Their understanding of government processes and security requirements is exceptional.",
+    "rating": 5,
+    "avatar": "https://ui-avatars.com/api/?name=Priya+Sharma&background=0284c7&color=fff&size=128"
+  },
+  {
+    "id": 5,
+    "name": "Michael Chen",
+    "company": "Pacific Innovations Ltd",
+    "role": "CEO",
+    "testimonial": "VINKS provided excellent consulting services for our digital transformation initiative. Their strategic insights and technical implementation have positioned us for future growth.",
+    "rating": 5,
+    "avatar": "https://ui-avatars.com/api/?name=Michael+Chen&background=0284c7&color=fff&size=128"
+  },
+  {
+    "id": 6,
+    "name": "Anita Desai",
+    "company": "Regional Insurance Corp",
+    "role": "Head of Digital Services",
+    "testimonial": "The team at VINKS demonstrated deep domain knowledge and delivered a solution that has improved our customer satisfaction scores by 40%. Outstanding partnership!",
+    "rating": 5,
+    "avatar": "https://ui-avatars.com/api/?name=Anita+Desai&background=0284c7&color=fff&size=128"
+  }
+]

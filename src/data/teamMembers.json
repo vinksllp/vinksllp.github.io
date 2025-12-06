@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Vikram Krishnan",
+    "role": "Founder & CEO",
+    "bio": "20+ years of experience in enterprise software solutions with expertise in insurance and government sectors.",
+    "image": "https://ui-avatars.com/api/?name=Vikram+Krishnan&background=0284c7&color=fff&size=256&bold=true",
+    "linkedin": "https://linkedin.com",
+    "email": "vikram@vinksservices.com"
+  },
+  {
+    "id": 2,
+    "name": "Neha Sharma",
+    "role": "Chief Technology Officer",
+    "bio": "Full-stack architect specializing in scalable cloud solutions and modern web technologies.",
+    "image": "https://ui-avatars.com/api/?name=Neha+Sharma&background=0284c7&color=fff&size=256&bold=true",
+    "linkedin": "https://linkedin.com",
+    "email": "neha@vinksservices.com"
+  },
+  {
+    "id": 3,
+    "name": "Karthik Subramanian",
+    "role": "Head of Consulting",
+    "bio": "Domain expert in insurance technology with proven track record in digital transformation projects.",
+    "image": "https://ui-avatars.com/api/?name=Karthik+Subramanian&background=0284c7&color=fff&size=256&bold=true",
+    "linkedin": "https://linkedin.com",
+    "email": "karthik@vinksservices.com"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Reddy",
+    "role": "Senior Solutions Architect",
+    "bio": "Specialized in government IT systems and compliance-focused enterprise applications.",
+    "image": "https://ui-avatars.com/api/?name=Sneha+Reddy&background=0284c7&color=fff&size=256&bold=true",
+    "linkedin": "https://linkedin.com",
+    "email": "sneha@vinksservices.com"
+  },
+  {
+    "id": 5,
+    "name": "Rahul Mehta",
+    "role": "Lead Developer",
+    "bio": "Expert in React, Node.js, and cloud infrastructure with focus on high-performance applications.",
+    "image": "https://ui-avatars.com/api/?name=Rahul+Mehta&background=0284c7&color=fff&size=256&bold=true",
+    "linkedin": "https://linkedin.com",
+    "email": "rahul@vinksservices.com"
+  },
+  {
+    "id": 6,
+    "name": "Priya Iyer",
+    "role": "Project Manager",
+    "bio": "Agile certified PM with expertise in managing complex international software projects.",
+    "image": "https://ui-avatars.com/api/?name=Priya+Iyer&background=0284c7&color=fff&size=256&bold=true",
+    "linkedin": "https://linkedin.com",
+    "email": "priya@vinksservices.com"
+  }
+]
