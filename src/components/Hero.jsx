@@ -12,7 +12,7 @@ const Hero = () => {
                 Your Business
               </h1>
               <p className="text-xl text-secondary-600 leading-relaxed">
-                Expert consulting services for Insurance, Gas Distribution, Government Departments, and International Clients
+                Expert consulting services for Cooperative Societies, Gas Distribution, Government Departments, and International Clients
               </p>
             </div>
 
@@ -34,15 +34,15 @@ const Hero = () => {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-8 pt-8 border-t border-secondary-200">
               <div>
-                <div className="text-4xl font-bold text-primary-600">15+</div>
+                <div className="text-4xl font-bold text-primary-600">25+</div>
                 <div className="text-secondary-600">Years Experience</div>
               </div>
               <div>
-                <div className="text-4xl font-bold text-primary-600">200+</div>
+                <div className="text-4xl font-bold text-primary-600">450+</div>
                 <div className="text-secondary-600">Projects Delivered</div>
               </div>
               <div>
-                <div className="text-4xl font-bold text-primary-600">50+</div>
+                <div className="text-4xl font-bold text-primary-600">350+</div>
                 <div className="text-secondary-600">Happy Clients</div>
               </div>
             </div>
@@ -66,7 +66,7 @@ const Hero = () => {
                 
                 <div className="space-y-3">
                   <div className="flex items-center justify-between p-3 bg-secondary-50 rounded-lg">
-                    <span className="text-secondary-700">Insurance Sector</span>
+                    <span className="text-secondary-700">Cooperative Societies</span>
                     <span className="text-primary-600 font-semibold">✓</span>
                   </div>
                   <div className="flex items-center justify-between p-3 bg-secondary-50 rounded-lg">
