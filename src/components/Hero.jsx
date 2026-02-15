@@ -73,10 +73,10 @@ const Hero = () => {
                     <span className="text-secondary-700">Gas Distribution</span>
                     <span className="text-primary-600 font-semibold">✓</span>
                   </div>
-                  <div className="flex items-center justify-between p-3 bg-secondary-50 rounded-lg">
+                  {/* <div className="flex items-center justify-between p-3 bg-secondary-50 rounded-lg">
                     <span className="text-secondary-700">Government IT</span>
                     <span className="text-primary-600 font-semibold">✓</span>
-                  </div>
+                  </div> */}
                   <div className="flex items-center justify-between p-3 bg-secondary-50 rounded-lg">
                     <span className="text-secondary-700">International Projects</span>
                     <span className="text-primary-600 font-semibold">✓</span>
