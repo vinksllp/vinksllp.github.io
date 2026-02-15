@@ -17,7 +17,7 @@ function App() {
         <Domains />
         <About />
         <Testimonials />
-        <TeamMembers />
+        {/* <TeamMembers /> */}
       </main>
       <Footer />
     </div>
